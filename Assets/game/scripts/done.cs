@@ -67,8 +67,8 @@ public void restart (){
 Destroy(sound);
 	if(adscount > 2 ){
 
-AdBuddizBinding.RewardedVideo.Fetch();
-		AdBuddizBinding.RewardedVideo.Show();
+//AdBuddizBinding.RewardedVideo.Fetch();
+		//AdBuddizBinding.RewardedVideo.Show();
 adscount = 0;
 
 		}
